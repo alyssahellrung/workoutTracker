@@ -1,4 +1,4 @@
-# WORKOUT TRACKER -- HOMEWORK 17
+# WORKOUT TRACKER  
 
 ## Description  
 A web application to help users keep track of their workouts. 
